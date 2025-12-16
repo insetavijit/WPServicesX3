@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "135d86cd5fdd8538",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8903e6e8ccb7744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1161db529e1a259e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Service-example/04/Section 04 — Build, Prototype & Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Section 04 — Build, Prototype & Test"
+            }
+          },
+          {
+            "id": "40120189957d25ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Service-example/05/Section 5 — Executive One-Page Doctrine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Section 5 — Executive One-Page Doctrine"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe4f5d4c804276d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fac410c342decbb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "078c53181132678b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "062f773acca88ad5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SECRION",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0541dcb9f10fa7c3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f4b0cb24db6f7438",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "efc5b95926108ea7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 1"
+            }
+          },
+          {
+            "id": "adae0d0d7e26f88e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "@Service-example/05/Section 5 — Executive One-Page Doctrine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Section 5 — Executive One-Page Doctrine"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344
+  },
+  "right": {
+    "id": "86282bed756eab44",
+    "type": "split",
+    "children": [
+      {
+        "id": "7236b54bbe262df4",
+        "type": "tabs",
+        "dimension": 74.95238095238095,
+        "children": [
+          {
+            "id": "04677682336db9d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d983c7958beeaa24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06 Bug Fixing, Troubleshooting & Emergency Site Recovery/@Bug Fixing, Troubleshooting & Emergency Site Recovery.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of @Bug Fixing, Troubleshooting & Emergency Site Recovery"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2614f85aff65fd9",
+        "type": "tabs",
+        "dimension": 25.047619047619047,
+        "children": [
+          {
+            "id": "e473ccec1fb6cfed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4dae71c85c568d77",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "04677682336db9d2",
+  "lastOpenFiles": [
+    "@Service-example/05/Section 05 — Go-To-Market & Launch.md",
+    "@Service-example/04/Section 04 — Build, Prototype & Test.md",
+    "04 Build, Prototype & Test/04 Build, Prototype & Test.md",
+    "05 Go-To-Market & Launch/05 Go-To-Market & Launch.md",
+    "6 Golden Steps.md",
+    "@Service-example/05/Section 5 — MBA  Academic Framework Mapping.md",
+    "Untitled",
+    "@Service-example/06",
+    "@Service-example/03",
+    "@Service-example/02",
+    "@Service-example/01",
+    "@Service-example/05",
+    "@Service-example/04",
+    "@Service-example/05/Section 5 — Executive One-Page Doctrine.md",
+    "@Service-example/05/Section 5 — Go-To-Market & Launch Checklist-Driven Operating Playbook.md",
+    "@Service-example/03/Section 03 — Offer Definition & Business Case.md",
+    "@Service-example/02/Section 02 — Market & Demand Validation.md",
+    "06 Post-Launch Review & Scale/06 Post-Launch Review & Scale.md",
+    "Pinters.md",
+    "@Service-example/01/Section 01 — Strategic Fit & Intent Lock.md",
+    "@Service-example/06/Section 06 — Post-Launch Review & Scale.md",
+    "02 Market & Demand Validation/02 Market & Demand Validation.md",
+    "@Service-example",
+    "03 Offer Definition & Business Case/03 Offer Definition & Business Case.md",
+    "01 Strategic Fit & Intent Lock/01 Strategic Fit & Intent Lock.md",
+    "WordPress Maintenance & Care Plans.md",
+    "06 Post-Launch Review & Scale",
+    "05 Go-To-Market & Launch",
+    "@review/Fiverr First-Sale Execution Table.md",
+    "@review/Untitled 1 1.md",
+    "@review/Untitled 3.md",
+    "@review/Optimize Seller Profile.md",
+    "@review/Create ONE Core Gig.md",
+    "@review/Untitled 2.md",
+    "@review/Untitled 1.md",
+    "Untitled.canvas"
+  ]
+}
