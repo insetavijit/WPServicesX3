@@ -1,8 +1,3 @@
-Below is the **re-created Breakdown Phase written as a reusable prompt**, expressed as a **strict nested list** and aligned explicitly to **goal definition discipline**.  
-This is written to **enforce decomposition without interpretation**, not to describe outcomes.
-
----
-
 ### **Prompt — Phase 2: Breakdown Phase (Goal-Locked Decomposition)**
 
 - **What**
@@ -121,13 +116,3 @@ This is written to **enforce decomposition without interpretation**, not to desc
                 
             - Tool exploration or experimentation
                 
-
----
-
-If you want, next we can:
-
-- Convert this into a **fillable Breakdown Phase template**
-    
-- Instantiate it **specifically for UrbanStep Shoes**
-    
-- Generate a **validation checklist** that blocks execution until breakdown integrity is proven

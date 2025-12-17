@@ -11,7 +11,7 @@ This milestone enables **direct contact only** and does not introduce any sellin
     
     Tasks must be executed **strictly in the following order**:
     
-    1. Configure a WhatsApp click-to-chat entry point using the official WhatsApp deep-link format.
+    1. [[Configure a WhatsApp click-to-chat entry point using the official WhatsApp deep-link format]].
         
         - Use the approved business phone number.
             

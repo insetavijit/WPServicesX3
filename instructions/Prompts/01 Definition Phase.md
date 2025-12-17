@@ -1,7 +1,7 @@
 ### **1. Definition Phase**
 
 - **What**  
-    Formally define and freeze the project goal and success condition. Do not proceed to Breakdown until this definition is complete, validated, and agreed.
+    Re create this structure with the given Context
     
 - **Scope**
     

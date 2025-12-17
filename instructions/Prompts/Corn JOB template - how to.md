@@ -1,14 +1,23 @@
-  
+              
+- **Task Name**
+	Configure a WhatsApp click-to-chat entry point using the official WhatsApp deep-link format.
+	
+	- Use the approved business phone number.  
+		
+	- Do not include prefilled sales scripts, automation, or conditional logic.  
+		
+	Place the WhatsApp entry point in approved locations only:
+	
+	- Primary header or prominent CTA area  
+		
+	- Contact page
+
+		
 - **Input Parameters (Variable — Provided Per Use Case)**
     
     - **Domain / Platform**
         
         - Example: WordPress, CRM, Hosting Panel, ERP, Internal Tool
-            
-    - **Task Name**
-		Create a single primary navigation menu | Add all core pages to the primary navigation in a flat structure: No submenus
-		No hidden or conditional items | Assign the primary navigation menu to the site’s main menu location.
-            
     - **Task Scope**
         
         - Explicitly listed inclusions
