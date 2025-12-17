@@ -1,7 +1,3 @@
-### **1. Definition Phase — UrbanStep Shoes Website**
-
----
-
 #### **What**
 
 Formally define and freeze the project goal and the conditions under which the UrbanStep Shoes website project is considered complete. No Breakdown, design, tooling, or execution activities may begin until this definition is finalized, validated, and explicitly agreed.
