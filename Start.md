@@ -1,3 +1,9 @@
+@prompt : Set this as Context for this Chat
+
+@prompt : Recreate this for the locked Context </the full Prompt/>
+
+Expectation : The Prompt Will Be Replaced with structured instructions
+
 | Phase                | Review Focus             | Review Question                                                          | Review Outcome                           |
 | -------------------- | ------------------------ | ------------------------------------------------------------------------ | ---------------------------------------- |
 | **Definition Phase** | Clarity & intent         | Is the goal, scope, and success condition unambiguous and agreed?        | Project is clearly defined and frozen    |

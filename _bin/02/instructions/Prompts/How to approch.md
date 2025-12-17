@@ -2,11 +2,10 @@
 ###  Prompt 01 : Create How to approach Section
 - **Subject**
     
-    - Content block placement and messaging implementation _(Concise, Academic Level)_
-        
+    - Configured WordPress installation on shared hosting_(Concise, Academic Level)_
 - **Context**
     
-    - Define the _How to Approach_ section for the subject
+    - Define the _How to Approach_ section for the subject according to the parent context
         
     - Focus on approach and decision logic before execution or design
         
@@ -60,7 +59,7 @@
 ### Prompt 02 : Create Steps Table 
 - **Subject**
     
-    - Content block placement and messaging implementation _(Concise, Academic Level)_
+    - Configured WordPress installation on shared hosting_(Concise, Academic Level)_
         
 - **Context**
     
@@ -117,7 +116,7 @@
 
 - **Subject**
     
-    - Content block placement and messaging implementation  
+    - Configured WordPress installation on shared hosting 
         _(Concise, academic level)_
         
 - **Context**
@@ -255,7 +254,7 @@
 ### Prompt 05 : "Create a **Mentor’s Closing Definition**"
 - **Subject**
     
-    - Content block placement and messaging implementation _(Concise, Academic Level)_
+    - Configured WordPress installation on shared hosting_(Concise, Academic Level)_
         
 - **Context**
     

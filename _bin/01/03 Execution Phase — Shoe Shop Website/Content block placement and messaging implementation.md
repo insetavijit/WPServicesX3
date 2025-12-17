@@ -1,4 +1,4 @@
-### **How to Approach — Content Block Placement and Messaging Implementation (Concise, Academic Level)**
+### **01 How to Approach — Content Block Placement and Messaging Implementation (Concise, Academic Level)**
 
 **Objective**  
 Establish a clear, intent-driven framework for placing content blocks and defining their messages so that users can immediately understand purpose, priority, and next action on each page.
@@ -29,7 +29,6 @@ The approach is complete when every page contains only essential content blocks,
 
 This structured approach ensures that subsequent design and implementation phases operate on a stable, intent-aligned content foundation rather than compensating for unclear messaging or misplaced structure.
 
----
 
 |**Step Name**|**Mentor Instruction**|
 |---|---|
@@ -43,8 +42,7 @@ This structured approach ensures that subsequent design and implementation phase
 |Confirm Intent Coverage|Verify that all critical user questions are answered by the remaining blocks. Do not add new blocks at this stage to compensate for unclear earlier decisions.|
 |Lock Block Structure|Freeze block order and purpose before any design or copy refinement. Do not revisit structure later to accommodate visual or stylistic preferences.|
 
----
-### **Problem Definition — Content Block Placement and Messaging Implementation**
+### **03 Problem Definition — Content Block Placement and Messaging Implementation**
 
 The core problem addressed was **user confusion caused by content blocks being placed and written without a clear decision logic**.
 
@@ -56,8 +54,7 @@ The problem, therefore, was **how to structure content blocks and their messagin
 
 Unless this structural communication problem was resolved first, any later design, copy refinement, or layout work would attempt to compensate for unclear intent, increasing complexity and rework rather than improving clarity.
 
----
-### **Mentor’s Experience
+### **04 Mentor’s Experience
 
 In the last footwear retail project, I did not begin with tools, themes, or layouts.  
 I began by deliberately stripping away assumptions.
@@ -100,7 +97,6 @@ When the answer was consistently affirmative, I stopped.
 At that point, page structure and navigation were complete—not provisional, not aesthetic, but final.  
 Only then were content refinement and visual design allowed to enter the process.
 
----
-### **Problem Definition — Content Block Placement and Messaging Implementation**
+### **05 Mentor’s Closing Definition — Content Block Placement and Messaging Implementation**
 
-The core problem addressed was the absence of a clear, enforceable relationship between user intent and on-page content, resulting in pages that accumulated information without decision structure. Content blocks were typically added based on convention or perceived completeness rather than necessity, causing multiple intents to coexist on the same page and forcing users to infer priorities on their own. This lack of structural discipline made navigation feel arbitrary, obscured the primary action on each page, and introduced execution risk in later phases, where design and content revisions attempted to compensate for unresolved clarity issues. Without a precise definition of this problem, any subsequent implementation would have amplified ambiguity rather than reduced it.
+Content block placement and messaging must be governed as a **structural decision system**, not a creative or compositional exercise. Each block is permitted to exist only when it resolves a specific user question within a defined decision sequence, and its position is determined by decision priority rather than visual balance or convention. Any block that introduces multiple intents, redundant explanation, or unordered information constitutes a structural defect. This doctrine establishes content as an execution constraint: clarity is achieved by limitation, sequencing, and purpose enforcement, and all subsequent design or implementation work is required to conform to this predefined communication structure rather than reinterpret it.

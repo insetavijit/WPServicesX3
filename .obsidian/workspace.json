@@ -1,105 +1,66 @@
 {
   "main": {
-    "id": "135d86cd5fdd8538",
+    "id": "3580700c97ffb83f",
     "type": "split",
     "children": [
       {
-        "id": "d28dd9318c37e356",
+        "id": "1055e55bf67ef2c2",
         "type": "tabs",
         "children": [
           {
-            "id": "1967b27079917224",
+            "id": "ab4fd7944a55913f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 3.md",
-                "mode": "source",
+                "file": "02 Breakdown Phase — UrbanStep Shoes Website/02 Breakdown Phase — UrbanStep Shoes Website.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "02 Breakdown Phase — UrbanStep Shoes Website"
             }
           }
         ]
       },
       {
-        "id": "4b86c26589f217c8",
+        "id": "e4e750f538d07bbb",
         "type": "tabs",
         "children": [
           {
-            "id": "9ed096c9390b3434",
+            "id": "f7235e8a36c37375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Definition Phase — Shoe Shop Website/01 Definition Phase — Shoe Shop Website.md",
-                "mode": "source",
+                "file": "Responces/01 Definition Phase — UrbanStep Shoes Website.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Definition Phase — Shoe Shop Website"
-            }
-          },
-          {
-            "id": "e0a2f7b7fb3a27bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Execution Phase — Shoe Shop Website/Content block placement and messaging implementation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Content block placement and messaging implementation"
-            }
-          },
-          {
-            "id": "4b9bf6ede5b734d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Execution Phase — Shoe Shop Website/Page structure and navigation setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Page structure and navigation setup"
+              "title": "01 Definition Phase — UrbanStep Shoes Website"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fe4f5d4c804276d0",
+    "id": "fec3a2f2f8088a42",
     "type": "split",
     "children": [
       {
-        "id": "fac410c342decbb3",
+        "id": "b8460f2ce357f348",
         "type": "tabs",
         "children": [
           {
-            "id": "078c53181132678b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "062f773acca88ad5",
+            "id": "d523569af68e7aee",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SECRION",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,21 +72,50 @@
             }
           },
           {
-            "id": "0541dcb9f10fa7c3",
+            "id": "381ab7aecfc659e7",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "f4b0cb24db6f7438",
+            "id": "fee2acd0c06a9306",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 Execution Phase.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03 Execution Phase"
+            }
+          },
+          {
+            "id": "63fad4dcda8d5409",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 Execution Phase.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03 Execution Phase"
+            }
+          },
+          {
+            "id": "2dbaad5fa7bcde04",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,92 +130,71 @@
             }
           },
           {
-            "id": "efc5b95926108ea7",
+            "id": "7bfa271e9e349a13",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "all-properties",
               "state": {
-                "file": "Untitled 1.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
-            }
-          },
-          {
-            "id": "adae0d0d7e26f88e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Start.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "searchQuery": ""
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Start"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 344,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "86282bed756eab44",
+    "id": "5b1aa8dcb300b652",
     "type": "split",
     "children": [
       {
-        "id": "7236b54bbe262df4",
+        "id": "143b48be8f7e4e93",
         "type": "tabs",
-        "dimension": 74.95238095238095,
         "children": [
           {
-            "id": "04677682336db9d2",
+            "id": "f0729291cb30c5df",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "d983c7958beeaa24",
+            "id": "fdf8c0c7b997ac5b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Bug Fixing, Troubleshooting & Emergency Site Recovery/@Bug Fixing, Troubleshooting & Emergency Site Recovery.md",
-                "followCursor": true,
+                "file": "03 Execution Phase.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of @Bug Fixing, Troubleshooting & Emergency Site Recovery"
+              "title": "Outline of 03 Execution Phase"
             }
           }
         ]
       },
       {
-        "id": "d2614f85aff65fd9",
+        "id": "671db29f0a1b66e1",
         "type": "tabs",
-        "dimension": 25.047619047619047,
         "children": [
           {
-            "id": "e473ccec1fb6cfed",
+            "id": "be37f81baa25a38b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -235,7 +204,7 @@
             }
           },
           {
-            "id": "4dae71c85c568d77",
+            "id": "b3ea8d591869e90f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -249,58 +218,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "4dae71c85c568d77",
+  "active": "f0729291cb30c5df",
   "lastOpenFiles": [
-    "03 Execution Phase — Shoe Shop Website/Content block placement and messaging implementation.md",
-    "03 Execution Phase — Shoe Shop Website/Page structure and navigation setup.md",
-    "Untitled 3.md",
-    "01 Definition Phase — Shoe Shop Website/01 Definition Phase — Shoe Shop Website.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "_bin/token.md",
-    "03 Execution Phase — Shoe Shop Website/03 Execution Phase — Shoe Shop Website.md",
-    "02 Breakdown Phase — Shoe Shop Website/02 Breakdown Phase — Shoe Shop Website.md",
-    "intensions.md",
-    "04 Validation Phase — Shoe Shop Website/04 Validation Phase — Shoe Shop Website.md",
-    "05 Acceptance Phase — Shoe Shop Website/05 Acceptance Phase — Shoe Shop Website.md",
-    "05 Acceptance Phase — Shoe Shop Website",
-    "Untitled",
-    "04 Validation Phase — Shoe Shop Website",
-    "01 Definition Phase — Shoe Shop Website",
-    "02 Breakdown Phase — Shoe Shop Website",
-    "03 Execution Phase — Shoe Shop Website",
-    "Website Development Milestones & Delivery Plan.md",
-    "Milestone 1 — Business Discovery & Scope Confirmation.md",
-    "_archive",
-    "_archive/03 Execution Phase.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "02 Breakdown Phase.md",
+    "02 Breakdown Phase — UrbanStep Shoes Website/02 Breakdown Phase — UrbanStep Shoes Website.md",
+    "02 Breakdown Phase — UrbanStep Shoes Website",
+    "02 Breakdown Phase",
+    "01 Definition Phase/01 Definition Phase.md",
+    "01 Definition Phase",
+    "Responces/03 Execution Phase/03 Execution Phase.md",
+    "Responces/03 Execution Phase",
+    "Responces/03 Execution Phase/M5 Validation and Handover Readiness/M5 Validation and Handover Readiness.md",
+    "Responces/03 Execution Phase/M5 Validation and Handover Readiness",
+    "Responces/03 Execution Phase/M4 Showcase and Compliance Complete/M4 Showcase and Compliance Complete.md",
+    "Responces/03 Execution Phase/M4 Showcase and Compliance Complete",
+    "Responces/03 Execution Phase/M3 Inquiry Mechanisms Operational/M3 Inquiry Mechanisms Operational.md",
+    "Responces/03 Execution Phase/M3 Inquiry Mechanisms Operational",
+    "Responces/03 Execution Phase/M2 Structural Pages Established/M2 Structural Pages Established.md",
+    "Responces/03 Execution Phase/M2 Structural Pages Established",
+    "Responces/03 Execution Phase/M1 Platform Baseline Ready/M1 Platform Baseline Ready.md",
+    "Responces/03 Execution Phase/M1 Platform Baseline Ready",
+    "_bin/02/Responces/02 Breakdown Phase/02 Breakdown Phase — UrbanStep Shoes Website.md",
+    "Responces/01 Definition Phase — UrbanStep Shoes Website.md",
+    "instructions/Context.md",
+    "05 Acceptance Phase.md",
+    "_bin/02/Responces/03 Execution Phase/03 Execution Phase — UrbanStep Shoes Website.md",
+    "_bin/02/Responces/01 Definition Phase/01 Definition Phase — UrbanStep Shoes Website.md",
+    "04 Validation Phase.md",
+    "Start.md",
+    "_bin/02/Sources/instruction for task Completion.md",
+    "_bin/02/instructions/Context.md",
+    "_bin/02/instructions/Prompts/How to approch.md",
+    "_bin/02/instructions/Prompts/Prompt 03 — Create a Mentor Experience Section.md",
     "_bin/Start.md",
+    "_bin/token.md",
     "_bin/Identify the Business Core.md",
-    "_bin/Business Discovery & Requirement Mapping.md",
-    "_bin",
-    "_bin/Business-Company Website.md",
-    "@Service-example/05/Section 05 — Go-To-Market & Launch.md",
-    "@Service-example/04/Section 04 — Build, Prototype & Test.md",
-    "04 Build, Prototype & Test/04 Build, Prototype & Test.md",
-    "05 Go-To-Market & Launch/05 Go-To-Market & Launch.md",
-    "6 Golden Steps.md",
-    "@Service-example/05/Section 5 — MBA  Academic Framework Mapping.md",
-    "@Service-example/06",
-    "@Service-example/03",
-    "Untitled.canvas"
+    "_bin/Business-Company Website.md"
   ]
 }
