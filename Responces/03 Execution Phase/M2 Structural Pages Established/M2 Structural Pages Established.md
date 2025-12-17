@@ -12,7 +12,7 @@ This milestone establishes the **entire page structure and navigation**, without
     
     Tasks must be executed **in the following order only**:
     
-    1. Create the following pages as top-level WordPress pages:
+    1. [[01 Create the following pages as top-level WordPress pages]]:
         
         - Home
             
@@ -32,7 +32,7 @@ This milestone establishes the **entire page structure and navigation**, without
             
         - Contains placeholder structural content only (headings or empty blocks)
             
-    3. Create a single primary navigation menu.
+    3. [[02 Create a single primary navigation menu]].
         
     4. Add all core pages to the primary navigation in a flat structure:
         

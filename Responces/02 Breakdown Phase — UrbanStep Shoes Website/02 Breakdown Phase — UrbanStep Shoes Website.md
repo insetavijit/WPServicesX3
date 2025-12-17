@@ -158,17 +158,17 @@ This breakdown is derived strictly from the locked goal statement and success co
     
 - **Required Expertise**
     
-    - WordPress installation and configuration on shared hosting
+    - [[WordPress installation and configuration on shared hosting]]
         
-    - Page creation and layout using Gutenberg or Elementor
+    - [[Page creation and layout using Gutenberg or Elementor]]
         
-    - Basic front-end responsiveness validation
+    - [[Basic front-end responsiveness validation]]
         
-    - Contact form configuration and testing
+    - [[Contact form configuration and testing]]
         
-    - WhatsApp deep-link setup
+    - [[WhatsApp deep-link setup]]
         
-    - Fundamental SEO hygiene
+    - [[Fundamental SEO hygiene]]
         
     
     No design specialization, marketing expertise, or e-commerce skills are required or permitted for this phase.

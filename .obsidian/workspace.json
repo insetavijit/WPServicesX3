@@ -28,35 +28,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7235e8a36c37375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "instructions/Prompts/04 Validation Phase.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 Validation Phase"
-            }
-          },
-          {
             "id": "7e25436aed6428a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Responces/04 Validation Phase instantiated/04 Validation Phase instantiated.md",
+                "file": "Responces/03 Execution Phase/M2 Structural Pages Established/M2 Structural Pages Established.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 Validation Phase instantiated"
+              "title": "M2 Structural Pages Established"
+            }
+          },
+          {
+            "id": "2f25c5f8ff6f5b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Responces/03 Execution Phase/M2 Structural Pages Established/02 Create a single primary navigation menu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 Create a single primary navigation menu"
+            }
+          },
+          {
+            "id": "8e0e5d5d947f4170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CORE JOB PROMPT — Generate Execution Instructions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CORE JOB PROMPT — Generate Execution Instructions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,21 +264,28 @@
   },
   "active": "b3ea8d591869e90f",
   "lastOpenFiles": [
+    "Responces/03 Execution Phase/M2 Structural Pages Established/01 Create the following pages as top-level WordPress pages.md",
+    "Responces/03 Execution Phase/M2 Structural Pages Established/02 Create a single primary navigation menu.md",
+    "undefined.md",
+    "Responces/03 Execution Phase/M2 Structural Pages Established/M2 Structural Pages Established.md",
+    "instructions/Prompts/Corn JOB template - how to.md",
+    "CORE JOB PROMPT — Generate Execution Instructions.md",
+    "Responces/02 Breakdown Phase — UrbanStep Shoes Website/02 Breakdown Phase — UrbanStep Shoes Website.md",
+    "Start.md",
+    "instructions/Prompts/04 Validation Phase.md",
+    "instructions/Prompts/01 Definition Phase.md",
+    "Responces/04 Validation Phase instantiated/04 Validation Phase instantiated.md",
+    "_bin/01/Contact form configuration and testing.md",
     "Responces/01 Definition Phase — UrbanStep Shoes Website/01 Definition Phase — UrbanStep Shoes Website.md",
     "5. Acceptance & Closure Phase — UrbanStep Shoes Website.md",
-    "Responces/04 Validation Phase instantiated/04 Validation Phase instantiated.md",
     "Responces/04 Validation Phase instantiated",
-    "instructions/Prompts/04 Validation Phase.md",
     "Untitled 1.base",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled.base",
-    "Start.md",
-    "instructions/Prompts/01 Definition Phase.md",
     "instructions/Prompts/05 Acceptance Phase.md",
     "instructions/Prompts/02 Breakdown Phase.md",
     "Responces/01 Definition Phase — UrbanStep Shoes Website",
-    "Responces/02 Breakdown Phase — UrbanStep Shoes Website/02 Breakdown Phase — UrbanStep Shoes Website.md",
     "Responces/02 Breakdown Phase — UrbanStep Shoes Website",
     "02 Breakdown Phase",
     "01 Definition Phase",
@@ -276,18 +296,11 @@
     "Responces/03 Execution Phase/M4 Showcase and Compliance Complete/M4 Showcase and Compliance Complete.md",
     "Responces/03 Execution Phase/M4 Showcase and Compliance Complete",
     "Responces/03 Execution Phase/M3 Inquiry Mechanisms Operational/M3 Inquiry Mechanisms Operational.md",
-    "Responces/03 Execution Phase/M2 Structural Pages Established/M2 Structural Pages Established.md",
     "Responces/03 Execution Phase/M1 Platform Baseline Ready/M1 Platform Baseline Ready.md",
     "_bin/02/Responces/02 Breakdown Phase/02 Breakdown Phase — UrbanStep Shoes Website.md",
     "instructions/Context.md",
     "_bin/02/Responces/03 Execution Phase/03 Execution Phase — UrbanStep Shoes Website.md",
     "_bin/02/Responces/01 Definition Phase/01 Definition Phase — UrbanStep Shoes Website.md",
-    "_bin/02/Sources/instruction for task Completion.md",
-    "_bin/02/instructions/Context.md",
-    "_bin/02/instructions/Prompts/How to approch.md",
-    "_bin/02/instructions/Prompts/Prompt 03 — Create a Mentor Experience Section.md",
-    "_bin/Start.md",
-    "_bin/token.md",
-    "_bin/Identify the Business Core.md"
+    "_bin/02/Sources/instruction for task Completion.md"
   ]
 }
