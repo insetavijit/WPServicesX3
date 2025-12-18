@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Responces/02 Breakdown Phase.md",
+                "file": "Responces/01 Project defination - ecpom.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Breakdown Phase"
+              "title": "01 Project defination - ecpom"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Responces/03 Exicutions/M01 Platform Readiness.md",
+                "file": "Responces/03 Exicutions/M02 (Store Structure and Presentation.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M01 Platform Readiness"
+              "title": "M02 (Store Structure and Presentation"
             }
           }
         ]
@@ -236,15 +236,15 @@
   },
   "active": "b3ea8d591869e90f",
   "lastOpenFiles": [
-    "Responces/02 Breakdown Phase.md",
-    "Responces/04 Validation Phase.md",
     "Responces/03 Exicutions/M01 Platform Readiness.md",
+    "Responces/03 Exicutions/M03 Commerce Enablement.md",
+    "Responces/02 Breakdown Phase.md",
+    "Responces/03 Exicutions/M02 (Store Structure and Presentation.md",
+    "Responces/04 Validation Phase.md",
     "Responces/03 Exicutions",
     "Responces/Origianl posting.md",
     "Responces/05 Acceptance and Closure Phase.md",
     "Responces/03 Exicutions/M04 Production Readiness and Hand-off.md",
-    "Responces/03 Exicutions/M03 Commerce Enablement.md",
-    "Responces/03 Exicutions/M02 (Store Structure and Presentation.md",
     "instructions/Prompts/03 Execution Phase.md",
     "instructions/Prompts/02 Breakdown Phase.md",
     "Responces/01 Project defination - ecpom.md",
